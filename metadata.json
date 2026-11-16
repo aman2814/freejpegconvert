@@ -1,0 +1,6 @@
+{
+  "name": "FreeConvert — JPEG & Image Converter",
+  "description": "Convert JPEG, PNG, and WEBP image files online for free with batch processing, quality controls, and instant ZIP downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
